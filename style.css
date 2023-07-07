@@ -1,0 +1,62 @@
+body {
+    color: black;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman';
+    
+}
+
+h1 {
+    font-family: Merriweather, serif;
+    font-size: 60px;
+    position: relative;
+    margin: auto;
+    color: black;
+    text-align: center;
+   
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+li {
+    list-style-type: square;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+   font-family: Arial, Helvetica, sans-serif;
+
+   
+}
+
+img {
+    height: 100%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 10px;
+    border-radius: 35%;
+}
+
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+main {
+    background-image: url("https://images.unsplash.com/photo-1470790376778-a9fbc86d70e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG5ld3NwYXBlciUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60");
+
+}
+
+#Headlines {
+    background-image: url("https://media.istockphoto.com/id/1178879401/photo/brown-recycled-craft-paper-texture-as-background-cream-paper-texture-old-vintage-page-or.jpg?s=1024x1024&w=is&k=20&c=ryJjzNWpqF8_WvXoDWFzIK9fXs2tjbgyts9L10vriLk=");
+
+
+}
